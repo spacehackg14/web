@@ -1,0 +1,156 @@
+﻿.mdl-perfil {
+    text-align: center;
+    margin-top: 25px;
+}
+.mdl-perfil img{
+    width: 100%;
+    max-width: 120px;
+    border: 2px solid #BDBDBD;
+    border-radius: 50%;
+}
+.mdl-perfil h2{
+    font-size: 24px;
+    line-height: 26px;
+}
+.mdl-perfil ul{
+    margin: 0;
+}
+.mdl-perfil ul li{
+    list-style: none;
+}
+    .mdl-perfil ul li a {
+        color: #042c46 !important;
+    }
+.mdl-layout__header {
+    background-color: #042c46;
+}
+.mdl-container {
+    width: 100%;
+    max-width: 1150px;
+    margin: auto;
+    -webkit-transition: max-width .3s linear;
+    -moz-transition: max-width .3s linear;
+    -ms-transition: max-width .3s linear;
+    -o-transition: max-width .3s linear;
+    transition: max-width .3s linear;
+}
+.mdl-layout-title {
+    font-family: 'SignikaBold';
+}
+.mdl-layout__header-row .mdl-navigation {
+    width: 100%;
+    justify-content: flex-end;
+    padding: 0 30px;
+}
+    .mdl-layout__header-row .mdl-navigation .mdl-button {
+        text-transform: initial;
+        font-family: 'SignikaBold';
+        background-color: #FFFFFF;
+        color: #042c46;
+        font-size: 16px;
+    }
+.js-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.mdl-servicio {
+    width: 100%;
+    max-width: 235px;
+    text-align: center;
+    -webkit-transition: max-width .3s linear;
+    -moz-transition: max-width .3s linear;
+    -ms-transition: max-width .3s linear;
+    -o-transition: max-width .3s linear;
+    transition: max-width .3s linear;
+    margin: 10px;
+}
+    .mdl-servicio .mdl-card__title {
+        background-color: #042c46;
+        color: #FFFFFF;
+    }
+.mdl-servicio .mdl-card__title h2 {
+    margin: auto;
+    font-size: 24px;
+    line-height: 24px;
+}
+.mdl-servicio .mdl-card__supporting-text{
+    background-color: #64A9C3;
+    color: #FFFFFF;
+}
+.mdl-servicio .mdl-card__supporting-text small{
+    color: #FFFFFF;
+    opacity: 1;
+    margin-right: 10px;
+}
+    .mdl-servicio .mdl-card__actions .mdl-button {
+        background-color: #042c46;
+        font-family: 'SignikaBold';
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+.mdl-solicitar {
+    background-color: #042c46 !important;
+    color: #FFFFFF;
+    text-transform: initial;
+    font-family: 'SignikaMedium';
+    font-size: 16px;
+}
+/*Table*/
+.js-table tr.table {
+    display: inline-block;
+    width: 100%;
+    max-width: 250px;
+    margin: 20px 10px;
+}
+.js-table tr.table td{
+    display: block;
+    text-align: center;
+    border: none;
+    color: #FFFFFF;
+}
+.js-table--design {
+    background-color: #FFFFFF;
+}
+    .js-table--design td:nth-child(1) {
+        background-color: #042c46;
+        padding: 16px;
+        font-size: 24px;
+        font-family: 'SignikaBold';
+        line-height: 25px;
+        height: 85px;
+        vertical-align: middle;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+.js-table--design td:nth-child(2),
+.js-table--design td:nth-child(3){
+    background-color: #64A9C3;
+}
+.js-table--design td:nth-child(2){
+    height: 50px;
+    height: 70px;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 16px 16px 0 16px;
+    font-family: 'SignikaLight';
+}
+.js-table--design td:nth-child(3){
+    padding: 16px;
+    font-size: 40px;
+    font-family: 'SignikaBold';
+    line-height: 42px;
+}
+.js-table--design td:nth-child(4){
+    padding: 16px;
+}
+/*MATERIAL DESIGN*/
+.mdl-textfield__label{
+    color: #000000;
+    font-weight: 100;
+}
+.mdl-textfield__input{
+    border-bottom: 1px solid #000000;
+}

@@ -1,0 +1,2058 @@
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Desktop\TP_2017_2\Integracion Iteracion 3\SGDGT\UI\bin\BD.pdb
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\obj\Debug\UI.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\obj\Debug\UI.pdb
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\ApplicationInsights.config
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\csc.exe
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\vbc.exe
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\UI.dll.config
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\UI.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\UI.pdb
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\BE.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\BL.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.Web.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\BD.dll
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\BE.pdb
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\BL.pdb
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.Web.xml
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\jenny\Integracion Iteracion 3\Integracion Iteracion 3\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\TP_2017_2\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\TP_2017_2\PROGRA 90%\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\PROGRA 90%\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\PROGRA 90%\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\UI.dll.config
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\UI.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\UI.pdb
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\BD.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\BE.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\BL.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\BD.pdb
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\BE.pdb
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\BL.pdb
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Miguel-ASUS\Downloads\Correcion de la progra v1.0\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\UI.dll.config
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\UI.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\UI.pdb
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\BD.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\BE.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\BL.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\BD.pdb
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\BE.pdb
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\BL.pdb
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Desktop\Correcion de la progra v1.2\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correciones de la progra v1.6\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Downloads\Correcion v1.7\SGDGT\UI\obj\Debug\UI.pdb
+F:\Correcion v1.8\SGDGT\UI\bin\ApplicationInsights.config
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\csc.exe
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\vbc.exe
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+F:\Correcion v1.8\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\Correcion v1.8\SGDGT\UI\bin\UI.dll.config
+F:\Correcion v1.8\SGDGT\UI\bin\UI.dll
+F:\Correcion v1.8\SGDGT\UI\bin\UI.pdb
+F:\Correcion v1.8\SGDGT\UI\bin\BD.dll
+F:\Correcion v1.8\SGDGT\UI\bin\BE.dll
+F:\Correcion v1.8\SGDGT\UI\bin\BL.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.Web.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Correcion v1.8\SGDGT\UI\bin\BD.pdb
+F:\Correcion v1.8\SGDGT\UI\bin\BE.pdb
+F:\Correcion v1.8\SGDGT\UI\bin\BL.pdb
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.Web.xml
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+F:\Correcion v1.8\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Correcion v1.8\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\Correcion v1.8\SGDGT\UI\obj\Debug\UI.dll
+F:\Correcion v1.8\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion V1.10\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\CORRECION V.2\CORRECION V.2\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\CORRECION V.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\ApplicationInsights.config
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\csc.exe
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\vbc.exe
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\UI.dll.config
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\UI.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\UI.pdb
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\BD.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\BE.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\BL.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Web.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\BD.pdb
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\BE.pdb
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\BL.pdb
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.Web.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SGDGT\CORRECION V.2\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\SGDGT\CORRECION V.2\SGDGT\UI\obj\Debug\UI.dll
+F:\SGDGT\CORRECION V.2\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\UI.dll.config
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\UI.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\UI.pdb
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\BD.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\BE.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\BL.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\BD.pdb
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\BE.pdb
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\BL.pdb
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Downloads\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\UI.dll.config
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\UI.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\UI.pdb
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\BD.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\BE.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\BL.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\BD.pdb
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\BE.pdb
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\BL.pdb
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Downloads\CORRECION v2.2 GIRALDO\CORRECION V.2.1.1\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\CORRECION_v2.1.2(desplegable_corregido)\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Nueva carpeta\sgdgt_v2.1.2(desplegable_corregido)\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\UI.dll.config
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\UI.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\UI.pdb
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\BD.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\BE.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\BL.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\BD.pdb
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\BE.pdb
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\BL.pdb
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\fabrizio\Desktop\Correccion v2.1.4\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correccion v2.1.5 - Estilos Probarlos\Correc 2.1.6\SGDGT\UI\obj\Debug\UI.pdb
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\ApplicationInsights.config
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\csc.exe
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\vbc.exe
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\UI.dll.config
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\UI.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\UI.pdb
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\BD.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\BE.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\BL.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.Web.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\BD.pdb
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\BE.pdb
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\BL.pdb
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.Web.xml
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\obj\Debug\UI.dll
+E:\jenny\CURSOS\20017-II\tp-II\Correc 2.1.6\Correc 2.1.6\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\Correc 2.1.7\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\ApplicationInsights.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\UI.dll.config
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\UI.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\BD.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\BE.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\BL.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\BD.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\BE.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\BL.pdb
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\Gamers\Desktop\Correcion de la programacion\CORREC V3\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\csc.exe
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\vbc.exe
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\UI.dll.config
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\UI.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\UI.pdb
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\BD.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\BE.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\BL.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\BD.pdb
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\BE.pdb
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\BL.pdb
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\obj\Debug\UI.dll
+C:\Users\LUIS\Desktop\PROGRA FINAL SIN DISEÑO\SGDGT\UI\obj\Debug\UI.pdb
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\csc.exe
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\UI.dll.config
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\UI.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\UI.pdb
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\BD.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\BE.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\BL.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\BD.pdb
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\BE.pdb
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\BL.pdb
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\obj\Debug\UI.dll
+C:\Users\LUIS\Desktop\PROYECTO 2018-I\SVST\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\Christian-20180501T195606Z-001\Christian\SVST\SVST\UI\obj\Debug\UI.pdb
+D:\SVST2\SVST\SVST\UI\bin\roslyn\csc.exe
+D:\SVST2\SVST\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SVST2\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SVST2\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SVST2\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SVST2\SVST\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SVST2\SVST\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SVST2\SVST\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\SVST2\SVST\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SVST2\SVST\SVST\UI\bin\roslyn\vbc.exe
+D:\SVST2\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe
+D:\SVST2\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\SVST2\SVST\SVST\UI\bin\UI.dll.config
+D:\SVST2\SVST\SVST\UI\bin\UI.dll
+D:\SVST2\SVST\SVST\UI\bin\UI.pdb
+D:\SVST2\SVST\SVST\UI\bin\BD.dll
+D:\SVST2\SVST\SVST\UI\bin\BE.dll
+D:\SVST2\SVST\SVST\UI\bin\BL.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.Web.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SVST2\SVST\SVST\UI\bin\BD.pdb
+D:\SVST2\SVST\SVST\UI\bin\BE.pdb
+D:\SVST2\SVST\SVST\UI\bin\BL.pdb
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.Web.xml
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+D:\SVST2\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SVST2\SVST\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\SVST2\SVST\SVST\UI\obj\Debug\UI.dll
+D:\SVST2\SVST\SVST\UI\obj\Debug\UI.pdb
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\csc.exe
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\vbc.exe
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe
+F:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\Segunda Iteracion\SVST\SVST\UI\bin\UI.dll.config
+F:\Segunda Iteracion\SVST\SVST\UI\bin\UI.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\UI.pdb
+F:\Segunda Iteracion\SVST\SVST\UI\bin\BD.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\BE.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\BL.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.Web.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Segunda Iteracion\SVST\SVST\UI\bin\BD.pdb
+F:\Segunda Iteracion\SVST\SVST\UI\bin\BE.pdb
+F:\Segunda Iteracion\SVST\SVST\UI\bin\BL.pdb
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.Web.xml
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+F:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Segunda Iteracion\SVST\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\Segunda Iteracion\SVST\SVST\UI\obj\Debug\UI.dll
+F:\Segunda Iteracion\SVST\SVST\UI\obj\Debug\UI.pdb
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\csc.exe
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\vbc.exe
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe
+K:\Segunda Iteracion\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+K:\Segunda Iteracion\SVST\SVST\UI\bin\UI.dll.config
+K:\Segunda Iteracion\SVST\SVST\UI\bin\UI.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\UI.pdb
+K:\Segunda Iteracion\SVST\SVST\UI\bin\BD.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\BE.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\BL.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.Web.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Segunda Iteracion\SVST\SVST\UI\bin\BD.pdb
+K:\Segunda Iteracion\SVST\SVST\UI\bin\BE.pdb
+K:\Segunda Iteracion\SVST\SVST\UI\bin\BL.pdb
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.Web.xml
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+K:\Segunda Iteracion\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Segunda Iteracion\SVST\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+K:\Segunda Iteracion\SVST\SVST\UI\obj\Debug\UI.dll
+K:\Segunda Iteracion\SVST\SVST\UI\obj\Debug\UI.pdb
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\csc.exe
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\vbc.exe
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe
+D:\SVST3.0\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\SVST3.0\SVST\SVST\UI\bin\UI.dll.config
+D:\SVST3.0\SVST\SVST\UI\bin\UI.dll
+D:\SVST3.0\SVST\SVST\UI\bin\UI.pdb
+D:\SVST3.0\SVST\SVST\UI\bin\BD.dll
+D:\SVST3.0\SVST\SVST\UI\bin\BE.dll
+D:\SVST3.0\SVST\SVST\UI\bin\BL.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.Web.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SVST3.0\SVST\SVST\UI\bin\BD.pdb
+D:\SVST3.0\SVST\SVST\UI\bin\BE.pdb
+D:\SVST3.0\SVST\SVST\UI\bin\BL.pdb
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.Web.xml
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+D:\SVST3.0\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SVST3.0\SVST\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\SVST3.0\SVST\SVST\UI\obj\Debug\UI.dll
+D:\SVST3.0\SVST\SVST\UI\obj\Debug\UI.pdb
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\obj\Debug\UI.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\obj\Debug\UI.pdb
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\csc.exe
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\vbc.exe
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\UI.dll.config
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\UI.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\UI.pdb
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\BD.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\BE.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\BL.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.Web.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\BD.pdb
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\BE.pdb
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\BL.pdb
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.Web.xml
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+F:\SVST4.0\SVST3.0\SVST3.0\SVST\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\csc.exe
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\UI.dll.config
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\UI.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\UI.pdb
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\BD.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\BE.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\BL.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\BD.pdb
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\BE.pdb
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\BL.pdb
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\obj\Debug\UI.dll
+C:\Users\alumno\Documents\Arreglar\SVST4.1.1\SVST\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\Arreglar\SVST4.1.1\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\csc.exe
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\vbc.exe
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\VBCSCompiler.exe
+F:\SVST4.1.1Falta\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\SVST4.1.1Falta\SVST\UI\bin\UI.dll.config
+F:\SVST4.1.1Falta\SVST\UI\bin\UI.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\UI.pdb
+F:\SVST4.1.1Falta\SVST\UI\bin\BD.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\BE.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\BL.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.Web.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SVST4.1.1Falta\SVST\UI\bin\BD.pdb
+F:\SVST4.1.1Falta\SVST\UI\bin\BE.pdb
+F:\SVST4.1.1Falta\SVST\UI\bin\BL.pdb
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.Web.xml
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+F:\SVST4.1.1Falta\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SVST4.1.1Falta\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\SVST4.1.1Falta\SVST\UI\obj\Debug\UI.dll
+F:\SVST4.1.1Falta\SVST\UI\obj\Debug\UI.pdb
+F:\SVST4.4\SVST\UI\bin\roslyn\csc.exe
+F:\SVST4.4\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SVST4.4\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SVST4.4\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\SVST4.4\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\SVST4.4\SVST\UI\bin\roslyn\vbc.exe
+F:\SVST4.4\SVST\UI\bin\roslyn\VBCSCompiler.exe
+F:\SVST4.4\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\SVST4.4\SVST\UI\bin\UI.dll.config
+F:\SVST4.4\SVST\UI\bin\UI.dll
+F:\SVST4.4\SVST\UI\bin\UI.pdb
+F:\SVST4.4\SVST\UI\bin\BD.dll
+F:\SVST4.4\SVST\UI\bin\BE.dll
+F:\SVST4.4\SVST\UI\bin\BL.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.Web.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+F:\SVST4.4\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SVST4.4\SVST\UI\bin\BD.pdb
+F:\SVST4.4\SVST\UI\bin\BE.pdb
+F:\SVST4.4\SVST\UI\bin\BL.pdb
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.Web.xml
+F:\SVST4.4\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\SVST4.4\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+F:\SVST4.4\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SVST4.4\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\SVST4.4\SVST\UI\obj\Debug\UI.dll
+F:\SVST4.4\SVST\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\SVST4.6\SVST4.4\SVST\UI\obj\Debug\UI.pdb
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\csc.exe
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\vbc.exe
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\VBCSCompiler.exe
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\UI.dll.config
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\UI.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\UI.pdb
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\BD.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\BE.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\BL.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.Web.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\BD.pdb
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\BE.pdb
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\BL.pdb
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.Web.xml
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+E:\SVST4.6.1\SVST4.6\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SVST4.6.1\SVST4.6\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\SVST4.6.1\SVST4.6\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\SVST4.6.1\SVST4.6\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+E:\SVST4.6.1\SVST4.6\SVST\UI\obj\Debug\UI.dll
+E:\SVST4.6.1\SVST4.6\SVST\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\SVST4.7\SVST4.7\SVST4.6\SVST\UI\obj\Debug\UI.pdb
+D:\SVST4.8\SVST\UI\bin\roslyn\csc.exe
+D:\SVST4.8\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SVST4.8\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SVST4.8\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SVST4.8\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SVST4.8\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SVST4.8\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SVST4.8\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\SVST4.8\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SVST4.8\SVST\UI\bin\roslyn\vbc.exe
+D:\SVST4.8\SVST\UI\bin\roslyn\VBCSCompiler.exe
+D:\SVST4.8\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\SVST4.8\SVST\UI\bin\UI.dll.config
+D:\SVST4.8\SVST\UI\bin\UI.dll
+D:\SVST4.8\SVST\UI\bin\UI.pdb
+D:\SVST4.8\SVST\UI\bin\BD.dll
+D:\SVST4.8\SVST\UI\bin\BE.dll
+D:\SVST4.8\SVST\UI\bin\BL.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.Web.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+D:\SVST4.8\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SVST4.8\SVST\UI\bin\BD.pdb
+D:\SVST4.8\SVST\UI\bin\BE.pdb
+D:\SVST4.8\SVST\UI\bin\BL.pdb
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.Web.xml
+D:\SVST4.8\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+D:\SVST4.8\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+D:\SVST4.8\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SVST4.8\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\SVST4.8\SVST\UI\obj\Debug\UI.dll
+D:\SVST4.8\SVST\UI\obj\Debug\UI.pdb
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\csc.exe
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS\Desktop\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS\Desktop\SVST\UI\bin\UI.dll.config
+C:\Users\LUIS\Desktop\SVST\UI\bin\UI.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\UI.pdb
+C:\Users\LUIS\Desktop\SVST\UI\bin\BD.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\BE.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\BL.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS\Desktop\SVST\UI\bin\BD.pdb
+C:\Users\LUIS\Desktop\SVST\UI\bin\BE.pdb
+C:\Users\LUIS\Desktop\SVST\UI\bin\BL.pdb
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS\Desktop\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS\Desktop\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\LUIS\Desktop\SVST\UI\obj\Debug\UI.dll
+C:\Users\LUIS\Desktop\SVST\UI\obj\Debug\UI.pdb
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\csc.exe
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\UI.dll.config
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\UI.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\UI.pdb
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\BD.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\BE.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\BL.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\BD.pdb
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\BE.pdb
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\BL.pdb
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS\Desktop\TP\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS\Desktop\TP\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\TP\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\TP\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\LUIS\Desktop\TP\SVST\UI\obj\Debug\UI.dll
+C:\Users\LUIS\Desktop\TP\SVST\UI\obj\Debug\UI.pdb
+D:\SVST 4.9\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\SVST 4.9\SVST\UI\obj\Debug\UI.dll
+D:\SVST 4.9\SVST\UI\obj\Debug\UI.pdb
+D:\SVST 4.9\SVST\UI\bin\roslyn\csc.exe
+D:\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SVST 4.9\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\SVST 4.9\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SVST 4.9\SVST\UI\bin\roslyn\vbc.exe
+D:\SVST 4.9\SVST\UI\bin\roslyn\VBCSCompiler.exe
+D:\SVST 4.9\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\SVST 4.9\SVST\UI\bin\UI.dll.config
+D:\SVST 4.9\SVST\UI\bin\UI.dll
+D:\SVST 4.9\SVST\UI\bin\UI.pdb
+D:\SVST 4.9\SVST\UI\bin\BD.dll
+D:\SVST 4.9\SVST\UI\bin\BE.dll
+D:\SVST 4.9\SVST\UI\bin\BL.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.Web.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+D:\SVST 4.9\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SVST 4.9\SVST\UI\bin\BD.pdb
+D:\SVST 4.9\SVST\UI\bin\BE.pdb
+D:\SVST 4.9\SVST\UI\bin\BL.pdb
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.Web.xml
+D:\SVST 4.9\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+D:\SVST 4.9\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+D:\SVST 4.9\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\obj\Debug\UI.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\obj\Debug\UI.pdb
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\csc.exe
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\vbc.exe
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\VBCSCompiler.exe
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\UI.dll.config
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\UI.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\UI.pdb
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\BD.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\BE.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\BL.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.Web.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\BD.pdb
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\BE.pdb
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\BL.pdb
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.Web.xml
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+D:\SVST 5.0.1\SVST 5\SVST 4.9\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\SVST 5.1\SVST\UI\obj\Debug\UI.pdb
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\UI.dll.config
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\UI.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\UI.pdb
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\BD.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\BE.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\BL.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\BD.pdb
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\BE.pdb
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\BL.pdb
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\obj\Debug\UI.dll
+C:\Users\Usuario\Downloads\SVST 5.2\SVST\UI\obj\Debug\UI.pdb
+E:\SVST 5.3\SVST\UI\bin\roslyn\csc.exe
+E:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SVST 5.3\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+E:\SVST 5.3\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\SVST 5.3\SVST\UI\bin\roslyn\vbc.exe
+E:\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe
+E:\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+E:\SVST 5.3\SVST\UI\bin\UI.dll.config
+E:\SVST 5.3\SVST\UI\bin\UI.dll
+E:\SVST 5.3\SVST\UI\bin\UI.pdb
+E:\SVST 5.3\SVST\UI\bin\BD.dll
+E:\SVST 5.3\SVST\UI\bin\BE.dll
+E:\SVST 5.3\SVST\UI\bin\BL.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+E:\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SVST 5.3\SVST\UI\bin\BD.pdb
+E:\SVST 5.3\SVST\UI\bin\BE.pdb
+E:\SVST 5.3\SVST\UI\bin\BL.pdb
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.xml
+E:\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+E:\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+E:\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SVST 5.3\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+E:\SVST 5.3\SVST\UI\obj\Debug\UI.dll
+E:\SVST 5.3\SVST\UI\obj\Debug\UI.pdb
+F:\SVST 5.3\SVST\UI\bin\roslyn\csc.exe
+F:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SVST 5.3\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\SVST 5.3\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\SVST 5.3\SVST\UI\bin\roslyn\vbc.exe
+F:\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe
+F:\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\SVST 5.3\SVST\UI\bin\UI.dll.config
+F:\SVST 5.3\SVST\UI\bin\UI.dll
+F:\SVST 5.3\SVST\UI\bin\UI.pdb
+F:\SVST 5.3\SVST\UI\bin\BD.dll
+F:\SVST 5.3\SVST\UI\bin\BE.dll
+F:\SVST 5.3\SVST\UI\bin\BL.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+F:\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SVST 5.3\SVST\UI\bin\BD.pdb
+F:\SVST 5.3\SVST\UI\bin\BE.pdb
+F:\SVST 5.3\SVST\UI\bin\BL.pdb
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.xml
+F:\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+F:\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+F:\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SVST 5.3\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\SVST 5.3\SVST\UI\obj\Debug\UI.dll
+F:\SVST 5.3\SVST\UI\obj\Debug\UI.pdb
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\csc.exe
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\vbc.exe
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\UI.dll.config
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\UI.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\UI.pdb
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\BD.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\BE.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\BL.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\BD.pdb
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\BE.pdb
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\BL.pdb
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.xml
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\obj\Debug\UI.dll
+C:\Users\LUIS\Desktop\SVST 5.3\SVST\UI\obj\Debug\UI.pdb
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\csc.exe
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\vbc.exe
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\UI.dll.config
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\UI.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\UI.pdb
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BD.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BE.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BL.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BD.pdb
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BE.pdb
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BL.pdb
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.xml
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.dll
+H:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.pdb
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\csc.exe
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\System.Collections.Immutable.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\System.Reflection.Metadata.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\vbc.exe
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\roslyn\VBCSCompiler.exe.config
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\UI.dll.config
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\UI.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\UI.pdb
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BD.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BE.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BL.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BD.pdb
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BE.pdb
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\BL.pdb
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.DependencyCollector.xml
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.Web.xml
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.AI.WindowsServer.xml
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.ApplicationInsights.xml
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.csproj.CopyComplete
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.dll
+E:\TP\SVST 5.3\SVST 5.3\SVST\UI\obj\Debug\UI.pdb

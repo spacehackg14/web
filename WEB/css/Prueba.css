@@ -1,0 +1,14 @@
+﻿body {
+}
+.b {
+    position: absolute;
+    top: 350px;
+    left: 700px;
+    width:auto;
+}
+.c {
+    position: absolute;
+    top: 600px;
+    left: 700px;
+    width: auto;
+}

@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Prueba2\Prueba2\bin\Debug\Prueba2.dll
+C:\Users\Usuario\source\repos\Prueba2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\Usuario\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.dll
+C:\Users\Usuario\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.pdb

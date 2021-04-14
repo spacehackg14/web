@@ -1,0 +1,23 @@
+﻿@font-face {
+    font-family: 'SignikaLight';
+    src: url('Signika/Signika-Light.otf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'SignikaRegular';
+    src: url('Signika/Signika-Regular.otf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'SignikaMedium';
+    src: url('Signika/Signika-SemiBold.otf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'SignikaBold';
+    src: url('Signika/Signika-Bold.otf');
+    font-weight: 100;
+}

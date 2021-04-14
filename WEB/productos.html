@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Tus Productos</title>
+  </head>
+  <body onload="callApi()" style="background-color: #f4f4f4 !important">
+
+      <div class="header">
+          <div class="container text-left">
+              <div class="redes-header">
+                  <ul>
+                      <img src="Imagenes/1.png" style="width:90px;" />
+                     
+                  </ul>
+              </div>
+          </div>
+      </div>
+      <div class="container">
+          <div class="container">
+              <div class="card text-center">
+                  <div class="mdl-card mdl-card-comunicacion">
+                      <div class="mdl-card__supporting-text text-center">
+                          <h2>Productos Recomendados Para Ti</h2>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="row">
+              <div hidden id="product1" class="col-12 card text-white bg-primary mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 1</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Quiero abrir una cuenta</h5>
+                      <p class="card-text">Las cuentas empresariales del BBVA son precisamente utilizadas para rastrear saldos en efectivo, dinero adeudado a la empresa, dinero adeudado a los acreedores y la nómina pagada a los empleados.</p>
+                  </div>
+              </div>
+              <div hidden id="product2" class="col-12 card text-white bg-secondary mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 2</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Necesito Realizar cobros y pagos</h5>
+                      <p class="card-text">Los cobros y pagos son gestiones que se encargan de las tareas de  previsión, control, conciliación y reclamación de los flujos monetarios  en la empresa. Realiza con total seguridad tus cobros y pagos con  nuestro respaldo.</p>
+                  </div>
+              </div>
+              <div hidden id="product3" class="col-12 card text-white bg-success mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 3</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Necesito un préstamo o financiamiento</h5>
+                      <p class="card-text">El financiamiento es importante en el desarrollo de una empresa, gracias a él se obtienen los recursos necesarios para que esta pueda cumplir sus objetivos.</p>
+                  </div>
+              </div>
+              <div hidden id="product4" class="col-12 card text-white bg-success mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 4</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Quiero adquirir bienes muebles o inmuebles</h5>
+                      <p class="card-text">Deprecia aceleradamente el bien durante el plazo del financiamiento, lo cual reduce la base imponible para el pago del impuesto a la renta.</p>
+                  </div>
+              </div>
+          </div>
+          <div class="row">
+              <div hidden id="product5" class="col-12 card text-white bg-danger mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 5</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Necesito asegurar mi negocio</h5>
+                      <p class="card-text">¡Accede a cualquier plan solo con una firma! Sin inspecciones previas de tu negocio.</p>
+                  </div>
+              </div>
+              <div hidden id="product6" class="col-12 card text-white bg-warning mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 6</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Quiero invertir mi dinero</h5>
+                      <p class="card-text">Hacer una inversión es disponer cierta cantidad de dinero a una entidad financiera, empresa o acciones, para que este genere ganancias en un determinado tiempo. En una inversión existe un grado de riesgo que puede implicar la pérdida del capital.</p>
+                  </div>
+              </div>
+              <div hidden id="product7" class="col-12 card text-white bg-info mb-3" style="margin: 20px !important; background-color: #004481 !important; max-width: 18rem;">
+                  <div class="card-header">Producto 7</div>
+                  <div class="card-body">
+                      <h5 class="card-title">Necesito cambiar dólares</h5>
+                      <p class="card-text">¡Sin ir al banco! Cotiza desde BBVA Net Cash a un superprecio y con total seguridad.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <!-- Optional JavaScript -->
+      <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <script>
+          function callApi() {
+              var productos = [
+                  {
+                      id: '1',
+                      score: Math.random()
+                  },
+                  {
+                      id: '2',
+                      score: Math.random()
+                  },
+                  {
+                      id: '3',
+                      score: Math.random()
+                  },
+                  {
+                      id: '4',
+                      score: Math.random()
+                  },
+                  {
+                      id: '5',
+                      score: Math.random()
+                  },
+                  {
+                      id: '6',
+                      score: Math.random()
+                  },
+                  {
+                      id: '7',
+                      score: Math.random()
+                  }
+              ];
+
+              fetch('https://run.mocky.io/v3/68ba8d25-bf20-4c49-869c-22768e2cc47e')
+                  .then(response => response.json())
+                  .then(data => {
+                      console.log(data);
+                      productos.sort(function (a, b) {
+                          return a.score - b.score;
+                      });
+                      console.log(productos);
+                      var elegidos = [productos[productos.length - 1], productos[productos.length - 2], productos[productos.length - 3]];
+                      console.log(elegidos);
+                      elegidos.forEach(p => {
+                          var elemento = document.getElementById('product' + p.id);
+                          elemento.hidden = false;
+                      });
+                  });
+
+          }
+      </script>
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
